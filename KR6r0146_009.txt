@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:06.668797
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:27
 #+TITLE: 北山錄
 #+PROPERTY: CBETA_ID T52n2113
 #+PROPERTY: ID KR6r0146
@@ -16,7 +16,7 @@
  北山錄卷第九¶
 ¶
 
-15異學(九)
+* 15異學(九)
 :PROPERTIES:
 :head: 異學第十五(異學外學也。習異宗之解。助本教之旨歸者也)
 :END:
